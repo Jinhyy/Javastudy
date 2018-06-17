@@ -1,4 +1,4 @@
-
+// ¡÷ºÆ
 class Prof {
 	private String num,name,birth,profsub;
 
