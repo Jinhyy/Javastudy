@@ -1,7 +1,6 @@
 // ¡÷ºÆ
 class Prof {
 	private String num,name,birth,profsub;
-
 	public String getNum() {
 		return num;
 	}
